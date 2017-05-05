@@ -14,7 +14,7 @@ Data are from census.gov, both the decennial census and American Fact Finder.
 
 ### Instructional demo
 
-Using the [Class-23 demo](https://umbcvis.github.io/classes/class-12) as a starting point,
+Using the [Class-13 demo](https://umbcvis.github.io/classes/class-12) as a starting point,
 this demo shows how to reconstruct all the counties from the census tracts. 
 
 * https://umbcvis.github.io/projects/mtclass
@@ -34,3 +34,5 @@ Specific objectives (create a separate gist for each one)
 #### Documentation
 
 * Add specific links in your repository to identify your data sources -- "census.gov" isn't suffficient.
+Mike Bostocks https://bl.ocks.org/mbostock/5562380 for California Chloropeth tutorial
+Mike Bostocks https://bl.ocks.org/mbostock/22994cc97fefaeede0d861e6815a847e for a simpler d3-drag demo
