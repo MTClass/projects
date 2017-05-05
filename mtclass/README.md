@@ -20,7 +20,7 @@ Add the following content to the README.md in your repo.
 
 1. 1 or 2 sentences describing overall project goals, e.g., interactive tool?, hypothesis test? (0% complete)
 Goal is to identify the counties with the greatest population
-Chary will show how the population is distributed by age cohorts which will tell the story as to what age cohorts are concentrated in specific Counties, e,g PG County has the largest population ages 20-24, perhaps because of UMD, and Montgomery County seems to attract retirees.
+Chart will show how the population is distributed by age cohorts which will tell the story as to what age cohorts are concentrated in specific Counties, e,g PG County has the largest population ages 20-24, perhaps because of UMD, and Montgomery County seems to attract retirees.
 
 2. Attribution and links to all data sources (5% complete)
 Data is from census.gov.  I have used both the decennial census and American Fact Finder.
